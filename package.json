@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@truffle/hdwallet-provider": "^2.1.11",
+    "live-server": "^1.2.2"
+  }
+}
