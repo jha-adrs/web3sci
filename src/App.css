@@ -1,0 +1,76 @@
+.container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+  }
+  
+  .title {
+    text-align: center;
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  .section {
+    margin-bottom: 30px;
+  }
+  
+  .course {
+    background-color: #f2f2f2;
+    padding: 10px;
+    border-radius: 5px;
+    margin-bottom: 10px;
+  }
+  
+  .course-name {
+    font-weight: bold;
+  }
+  
+  .course-cgpa,
+  .course-marks {
+    margin-bottom: 5px;
+  }
+  
+  .student {
+    background-color: #e6f7ff;
+    padding: 10px;
+    border-radius: 5px;
+    margin-bottom: 10px;
+  }
+  
+  .student-roll {
+    font-weight: bold;
+  }
+  
+  .student-name,
+  .student-cgpa,
+  .student-wallet {
+    margin-bottom: 5px;
+  }
+  
+  .add-student-form label {
+    display: block;
+    margin-bottom: 10px;
+  }
+  
+  .add-student-form input {
+    width: 100%;
+    padding: 8px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    outline: none;
+  }
+  
+  .add-student-form button {
+    background-color: #4caf50;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .add-student-form button:hover {
+    background-color: #45a049;
+  }
+  
